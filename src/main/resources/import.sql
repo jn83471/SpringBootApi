@@ -1,0 +1,3 @@
+INSERT INTO puestos values(1,0,"2021-07-12","sad","2021-07-12")
+INSERT INTO `prospect`.`prospects` (`estatus`, `motive`, `apellido_materno`, `apellido_paterno`, `calle`, `colonia`, `cp`, `create_at`, `created_at`, `email`, `nombre`, `numero`, `phone`, `rfc`, `updated_at`,`puestos`) VALUES ('0', 'asd', 'asd', 'asd', 'sad', 'sad', 'sad', '2022-01-25 13:31:02.000000', '2022-01-25 13:31:03.000000', 'asd', 'sad', 'asd', 'sad', 'sad', '2022-01-25 13:31:08.000000',1);
+INSERT INTO files values(1,"2021-07-12",1,"jaja","jajas","2021-07-12") 
